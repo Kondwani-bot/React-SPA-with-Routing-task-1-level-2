@@ -1,0 +1,5 @@
+{
+  "name": "React SPA with Routing",
+  "description": "A simple Single Page Application built with React and TypeScript, featuring routing with React Router (HashRouter) and state management with Context API. Styled with Tailwind CSS.",
+  "requestFramePermissions": []
+}
